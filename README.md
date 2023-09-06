@@ -3,7 +3,7 @@
 ## **Índice**
 1. [Intro](https://github.com/DianaBMenM/Cloondegoogle/blob/main/README.md#1-intro)
 2. [Qué construí](https://github.com/DianaBMenM/Cloondegoogle/blob/main/README.md#2qu%C3%A9-constru%C3%AD)
-3. [Objetivo del proyecto](#)
+3. [Objetivo del proyecto](https://github.com/DianaBMenM/Cloondegoogle/blob/main/README.md#objetivo-del-proyecto)
 4. [Link a Demo](#)
 
 
